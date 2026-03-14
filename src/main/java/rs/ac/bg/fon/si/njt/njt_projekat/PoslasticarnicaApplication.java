@@ -29,5 +29,6 @@ public class PoslasticarnicaApplication {
         //sama ce da pokrene tomcat server i omogucice da primamo http zahteve i saljemo http odgovore
         SpringApplication.run(PoslasticarnicaApplication.class, args);
     }
+
     
 }
